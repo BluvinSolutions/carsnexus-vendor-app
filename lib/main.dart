@@ -1,19 +1,19 @@
 import 'dart:io';
 
-import 'package:carsnexus_owner/Authentication/Provider/auth_provider.dart';
-import 'package:carsnexus_owner/Employee/Provider/employee_provider.dart';
-import 'package:carsnexus_owner/Home%20&%20Shops/Provider/home_provider.dart';
-import 'package:carsnexus_owner/Home%20&%20Shops/Provider/shop_provider.dart';
-import 'package:carsnexus_owner/Home%20&%20Shops/home_screen.dart';
-import 'package:carsnexus_owner/Localization/language_localization.dart';
-import 'package:carsnexus_owner/Localization/localization_constant.dart';
-import 'package:carsnexus_owner/Package/Provider/package_provider.dart';
-import 'package:carsnexus_owner/Profile/Provider/notification_provider.dart';
-import 'package:carsnexus_owner/Profile/Provider/profile_provider.dart';
-import 'package:carsnexus_owner/Service%20Request/Provider/service_request_provider.dart';
-import 'package:carsnexus_owner/Services/Provider/service_provider.dart';
-import 'package:carsnexus_owner/Utils/preferences_names.dart';
-import 'package:carsnexus_owner/Utils/shared_preferences.dart';
+import 'package:voyzo_vendor/Authentication/Provider/auth_provider.dart';
+import 'package:voyzo_vendor/Employee/Provider/employee_provider.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/Provider/home_provider.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/Provider/shop_provider.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/home_screen.dart';
+import 'package:voyzo_vendor/Localization/language_localization.dart';
+import 'package:voyzo_vendor/Localization/localization_constant.dart';
+import 'package:voyzo_vendor/Package/Provider/package_provider.dart';
+import 'package:voyzo_vendor/Profile/Provider/notification_provider.dart';
+import 'package:voyzo_vendor/Profile/Provider/profile_provider.dart';
+import 'package:voyzo_vendor/Service%20Request/Provider/service_request_provider.dart';
+import 'package:voyzo_vendor/Services/Provider/service_provider.dart';
+import 'package:voyzo_vendor/Utils/preferences_names.dart';
+import 'package:voyzo_vendor/Utils/shared_preferences.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
@@ -101,7 +101,7 @@ class _MyAppState extends State<MyApp> {
             FocusScope.of(context).requestFocus(FocusNode());
           },
           child: MaterialApp(
-            title: 'Car-Q Owner',
+            title: 'Voyzo Owner',
             debugShowCheckedModeBanner: false,
             theme: CustomTheme.lightTheme,
             locale: _locale,

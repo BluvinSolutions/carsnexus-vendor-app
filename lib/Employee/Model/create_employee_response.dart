@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Employee/Model/employees_response.dart';
+import 'package:voyzo_vendor/Employee/Model/employees_response.dart';
 
 class CreateEmployeeResponse {
   CreateEmployeeResponse({

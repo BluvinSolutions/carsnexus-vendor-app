@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Theme/colors.dart';
+import 'package:voyzo_vendor/Theme/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:ui';

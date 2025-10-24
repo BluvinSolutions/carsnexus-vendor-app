@@ -1,2 +1,2 @@
-Cars Nexus Vendor App
+Voyzo Vendor App
 

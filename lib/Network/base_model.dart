@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Network/server_error.dart';
+import 'package:voyzo_vendor/Network/server_error.dart';
 
 class BaseModel<T> {
   late ServerError error;

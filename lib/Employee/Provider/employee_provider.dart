@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:carsnexus_owner/Employee/Model/create_employee_response.dart';
-import 'package:carsnexus_owner/Employee/Model/employees_response.dart';
-import 'package:carsnexus_owner/Employee/Model/single_employee_profile_response.dart';
-import 'package:carsnexus_owner/Home%20&%20Shops/create_shop_screen.dart';
-import 'package:carsnexus_owner/Network/api_header.dart';
-import 'package:carsnexus_owner/Network/api_services.dart';
-import 'package:carsnexus_owner/Network/base_model.dart';
-import 'package:carsnexus_owner/Network/server_error.dart';
-import 'package:carsnexus_owner/Utils/device_utils.dart';
+import 'package:voyzo_vendor/Employee/Model/create_employee_response.dart';
+import 'package:voyzo_vendor/Employee/Model/employees_response.dart';
+import 'package:voyzo_vendor/Employee/Model/single_employee_profile_response.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/create_shop_screen.dart';
+import 'package:voyzo_vendor/Network/api_header.dart';
+import 'package:voyzo_vendor/Network/api_services.dart';
+import 'package:voyzo_vendor/Network/base_model.dart';
+import 'package:voyzo_vendor/Network/server_error.dart';
+import 'package:voyzo_vendor/Utils/device_utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';

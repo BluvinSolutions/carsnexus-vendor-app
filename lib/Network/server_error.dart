@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Utils/device_utils.dart';
+import 'package:voyzo_vendor/Utils/device_utils.dart';
 import 'package:dio/dio.dart' hide Headers;
 import 'package:flutter/foundation.dart';
 

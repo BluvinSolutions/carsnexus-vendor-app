@@ -1,10 +1,10 @@
-import 'package:carsnexus_owner/Network/api_header.dart';
-import 'package:carsnexus_owner/Network/api_services.dart';
-import 'package:carsnexus_owner/Network/server_error.dart';
-import 'package:carsnexus_owner/Service%20Request/Model/booking_approved_response.dart';
-import 'package:carsnexus_owner/Service%20Request/Model/service_request_response.dart';
-import 'package:carsnexus_owner/Service%20Request/Model/single_request_response.dart';
-import 'package:carsnexus_owner/Utils/device_utils.dart';
+import 'package:voyzo_vendor/Network/api_header.dart';
+import 'package:voyzo_vendor/Network/api_services.dart';
+import 'package:voyzo_vendor/Network/server_error.dart';
+import 'package:voyzo_vendor/Service%20Request/Model/booking_approved_response.dart';
+import 'package:voyzo_vendor/Service%20Request/Model/service_request_response.dart';
+import 'package:voyzo_vendor/Service%20Request/Model/single_request_response.dart';
+import 'package:voyzo_vendor/Utils/device_utils.dart';
 import 'package:flutter/material.dart';
 
 import '../../Network/base_model.dart';

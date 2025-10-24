@@ -1,7 +1,7 @@
-import 'package:carsnexus_owner/Theme/colors.dart';
-import 'package:carsnexus_owner/Theme/theme.dart';
-import 'package:carsnexus_owner/Utils/preferences_names.dart';
-import 'package:carsnexus_owner/Utils/shared_preferences.dart';
+import 'package:voyzo_vendor/Theme/colors.dart';
+import 'package:voyzo_vendor/Theme/theme.dart';
+import 'package:voyzo_vendor/Utils/preferences_names.dart';
+import 'package:voyzo_vendor/Utils/shared_preferences.dart';
 import 'package:flutter/material.dart';
 
 class AppBarBack extends StatelessWidget {

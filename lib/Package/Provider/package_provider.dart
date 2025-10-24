@@ -1,12 +1,12 @@
-import 'package:carsnexus_owner/Home%20&%20Shops/create_shop_screen.dart';
-import 'package:carsnexus_owner/Network/api_header.dart';
-import 'package:carsnexus_owner/Network/api_services.dart';
-import 'package:carsnexus_owner/Network/base_model.dart';
-import 'package:carsnexus_owner/Network/server_error.dart';
-import 'package:carsnexus_owner/Package/Model/create_package_response.dart';
-import 'package:carsnexus_owner/Package/Model/packages_response.dart';
-import 'package:carsnexus_owner/Services/Model/delete_response.dart';
-import 'package:carsnexus_owner/Utils/device_utils.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/create_shop_screen.dart';
+import 'package:voyzo_vendor/Network/api_header.dart';
+import 'package:voyzo_vendor/Network/api_services.dart';
+import 'package:voyzo_vendor/Network/base_model.dart';
+import 'package:voyzo_vendor/Network/server_error.dart';
+import 'package:voyzo_vendor/Package/Model/create_package_response.dart';
+import 'package:voyzo_vendor/Package/Model/packages_response.dart';
+import 'package:voyzo_vendor/Services/Model/delete_response.dart';
+import 'package:voyzo_vendor/Utils/device_utils.dart';
 import 'package:flutter/material.dart';
 
 class PackageProvider extends ChangeNotifier {

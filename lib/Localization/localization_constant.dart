@@ -1,6 +1,6 @@
-import 'package:carsnexus_owner/Localization/language_localization.dart';
-import 'package:carsnexus_owner/Utils/preferences_names.dart';
-import 'package:carsnexus_owner/Utils/shared_preferences.dart';
+import 'package:voyzo_vendor/Localization/language_localization.dart';
+import 'package:voyzo_vendor/Utils/preferences_names.dart';
+import 'package:voyzo_vendor/Utils/shared_preferences.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

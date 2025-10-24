@@ -4,7 +4,7 @@ class Apis {
   // flutter pub run build_runner build --delete-conflicting-outputs
   // to generate the api_services.g.dart file
   // Every time you change the base url, you need to run the above command
-  static const String baseUrl = "https://carsnexus.com/api/owner/";
+  static const String baseUrl = "https://voyzo.in/api/owner/";
 
   static const String apiConnectionTest = "apiConnectionTest";
 

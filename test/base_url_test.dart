@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:carsnexus_owner/Network/api_connection_test_response_model.dart';
-import 'package:carsnexus_owner/Network/api_header.dart';
-import 'package:carsnexus_owner/Network/api_services.dart';
-import 'package:carsnexus_owner/Network/apis.dart';
+import 'package:voyzo_vendor/Network/api_connection_test_response_model.dart';
+import 'package:voyzo_vendor/Network/api_header.dart';
+import 'package:voyzo_vendor/Network/api_services.dart';
+import 'package:voyzo_vendor/Network/apis.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
@@ -17,7 +17,7 @@ void main() {
       // Check if the baseUrl matches the pattern
       expect(
         ((pattern1.hasMatch(Apis.baseUrl) || pattern2.hasMatch(Apis.baseUrl)) &&
-            Apis.baseUrl != "https://carsnexus.com/api/owner/"),
+            Apis.baseUrl != "https://voyzo.in/api/owner/"),
         isTrue,
         reason: 'The baseUrl does not match the required pattern',
       );

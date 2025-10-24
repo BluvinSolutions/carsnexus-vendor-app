@@ -1,10 +1,10 @@
-import 'package:carsnexus_owner/Home%20&%20Shops/Model/shop_response.dart';
-import 'package:carsnexus_owner/Home%20&%20Shops/create_shop_screen.dart';
-import 'package:carsnexus_owner/Localization/localization_constant.dart';
-import 'package:carsnexus_owner/Theme/colors.dart';
-import 'package:carsnexus_owner/Theme/theme.dart';
-import 'package:carsnexus_owner/Utils/lang_const.dart';
-import 'package:carsnexus_owner/Widgets/constant_widget.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/Model/shop_response.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/create_shop_screen.dart';
+import 'package:voyzo_vendor/Localization/localization_constant.dart';
+import 'package:voyzo_vendor/Theme/colors.dart';
+import 'package:voyzo_vendor/Theme/theme.dart';
+import 'package:voyzo_vendor/Utils/lang_const.dart';
+import 'package:voyzo_vendor/Widgets/constant_widget.dart';
 import 'package:extended_image/extended_image.dart';
 import 'package:flutter/material.dart';
 

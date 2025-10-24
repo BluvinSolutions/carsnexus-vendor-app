@@ -13,7 +13,7 @@ class _ApiServices implements ApiServices {
     this._dio, {
     this.baseUrl,
   }) {
-    baseUrl ??= 'https://carsnexus.com/api/owner/';
+    baseUrl ??= 'https://voyzo.in/api/owner/';
   }
 
   final Dio _dio;

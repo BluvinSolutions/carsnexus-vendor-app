@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Package/Model/packages_response.dart';
+import 'package:voyzo_vendor/Package/Model/packages_response.dart';
 
 class CreatePackageResponse {
   CreatePackageResponse({

@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Home%20&%20Shops/Model/shop_response.dart';
+import 'package:voyzo_vendor/Home%20&%20Shops/Model/shop_response.dart';
 
 class CreateShopResponse {
   CreateShopResponse({

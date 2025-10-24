@@ -1,8 +1,8 @@
-import 'package:carsnexus_owner/Network/api_header.dart';
-import 'package:carsnexus_owner/Network/api_services.dart';
-import 'package:carsnexus_owner/Network/base_model.dart';
-import 'package:carsnexus_owner/Network/server_error.dart';
-import 'package:carsnexus_owner/Profile/Model/notification_response.dart';
+import 'package:voyzo_vendor/Network/api_header.dart';
+import 'package:voyzo_vendor/Network/api_services.dart';
+import 'package:voyzo_vendor/Network/base_model.dart';
+import 'package:voyzo_vendor/Network/server_error.dart';
+import 'package:voyzo_vendor/Profile/Model/notification_response.dart';
 import 'package:flutter/material.dart';
 
 class NotificationProvider extends ChangeNotifier {

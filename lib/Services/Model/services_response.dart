@@ -1,4 +1,4 @@
-import 'package:carsnexus_owner/Services/Model/category_response.dart';
+import 'package:voyzo_vendor/Services/Model/category_response.dart';
 
 class ServicesResponse {
   ServicesResponse({
